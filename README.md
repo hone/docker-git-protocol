@@ -15,5 +15,5 @@ $ git clone git://[<IP Addr>](http://stackoverflow.com/questions/17157721/gettin
 ## Building
 
 ```
-$ docker build -t hone/git-protocol
+$ docker build -t hone/git-protocol .
 ```
